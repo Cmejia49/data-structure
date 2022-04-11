@@ -7,14 +7,28 @@ struct Node {
     int data; 
     struct Node* next; 
 }; 
+struct Node* head = NULL; 
+    struct Node* second = NULL; 
+    struct Node* third = NULL; 
+  
+ void printList()
+ {
+ 	struct Node *ptr = head;
+ 	printf("\n[ ");
+ 	
+ 	//start from the beginning
+ 	while(ptr != NULL)
+     	{
+ 		  printf("%d ",ptr->data);
+ 		  ptr = ptr->next;
+	    }
+	    printf(" ]");
+ }
   
 // Program to create a simple linked 
 // list with 3 nodes 
 int main() 
 { 
-    struct Node* head = NULL; 
-    struct Node* second = NULL; 
-    struct Node* third = NULL; 
   
     // allocate 3 nodes in the heap 
     head = (struct Node*)malloc(sizeof(struct Node)); 
@@ -35,7 +49,7 @@ int main()
    Data is random because we haven’t assigned  
    anything yet  */
   
-    head->data = 1; // assign data in first node 
+    head->data = 4; // assign data in first node 
     head->next = second; // Link first node with 
     // the second node 
   
@@ -91,6 +105,6 @@ int main()
     Note that only head is sufficient to represent  
     the whole list.  We can traverse the complete  
     list by following next pointers.    */
-  
+     printList();
     return 0; 
 } 

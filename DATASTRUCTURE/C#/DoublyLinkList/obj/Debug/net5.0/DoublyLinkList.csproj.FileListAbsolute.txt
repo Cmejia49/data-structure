@@ -1,0 +1,16 @@
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\DoublyLinkList.exe
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\DoublyLinkList.deps.json
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\DoublyLinkList.runtimeconfig.json
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\DoublyLinkList.runtimeconfig.dev.json
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\DoublyLinkList.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\ref\DoublyLinkList.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\bin\Debug\net5.0\DoublyLinkList.pdb
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.csproj.AssemblyReference.cache
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.AssemblyInfoInputs.cache
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.AssemblyInfo.cs
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.csproj.CoreCompileInputs.cache
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\ref\DoublyLinkList.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.pdb
+D:\repo\data-structure\DATASTRUCTURE\C#\DoublyLinkList\obj\Debug\net5.0\DoublyLinkList.genruntimeconfig.cache

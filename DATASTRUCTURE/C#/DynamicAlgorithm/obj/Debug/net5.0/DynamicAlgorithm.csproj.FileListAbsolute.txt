@@ -1,0 +1,16 @@
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.csproj.AssemblyReference.cache
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.AssemblyInfoInputs.cache
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.AssemblyInfo.cs
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.csproj.CoreCompileInputs.cache
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\DynamicAlgorithm.exe
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\DynamicAlgorithm.deps.json
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\DynamicAlgorithm.runtimeconfig.json
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\DynamicAlgorithm.runtimeconfig.dev.json
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\DynamicAlgorithm.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\ref\DynamicAlgorithm.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\bin\Debug\net5.0\DynamicAlgorithm.pdb
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\ref\DynamicAlgorithm.dll
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.pdb
+D:\repo\data-structure\DATASTRUCTURE\C#\DynamicAlgorithm\obj\Debug\net5.0\DynamicAlgorithm.genruntimeconfig.cache
